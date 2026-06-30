@@ -1,19 +1,61 @@
-# 💫 Hey there, I am Oahed!
-🎓 Computer Science and Engineering (CSE) Graduate from [IIUC](https://www.iiuc.ac.bd/).<br>💡 Passionate about <b>Machine Learning</b> & <b>Artificial Intelligence</b>.<br>🖥️ <b>Generative AI Enthusiast </b>. <br>📊 Aiming to build a career in <b>Gen AI, Data Science or Machine Learning</b>.<br>🎬 Video Editor by hobby, creating engaging content and visuals.<br>
 
+<h1 align="center">Hi 👋, I'm Oahed Noor Forhad</h1>
 
-## 🌐 Socials
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/oahednoorforhad) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vMNMP5NxE4) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/oahedforhad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oahedforhad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oahednoorforhad) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Onfious) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/oahed_forhad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/oahedforhad) 
+<p align="center">
+AI Engineer • IEEE Published Researcher • Building AI Systems
+</p>
 
+<p align="center">
+I enjoy building intelligent applications with <b>LLMs</b>, <b>RAG</b>, <b>and AI Agents</b></b>.
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oahednoorforhad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oahednoorforhad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://linkedin.com/in/oahednoorforhad">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://github.com/oahednoorforhad">
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717"/>
+  </a>
+  <a href="mailto:oahednoorforhad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+</p>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=oahednoorforhad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,ts,react,nextjs,nodejs,express,flask,mongodb,docker,kubernetes,sentry,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-0A84FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-7B3FF2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oahednoorforhad&theme=github_dark" />
+</p>
+
+
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oahednoorforhad&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+<i>"Building AI that solves real-world problems."</i>
