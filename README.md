@@ -38,8 +38,7 @@ I enjoy building intelligent applications with <b>LLMs</b>, <b>RAG</b>, <b>and A
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/RAG-0A84FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-7B3FF2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-7B3FF2?style=for-the-badge" />
 </p>
 
 ---
