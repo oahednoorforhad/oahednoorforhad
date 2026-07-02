@@ -21,7 +21,6 @@ I enjoy building intelligent applications with <b>LLMs</b>, <b>RAG</b>, <b>and A
   </a>
 </p>
 
-
 ---
 
 ## 🛠 Tech Stack
