@@ -1,59 +1,13 @@
-
-<h1 align="center">Hi 👋, I'm Oahed Noor Forhad</h1>
-
-<p align="center">
-AI Engineer • IEEE Published Researcher • Building AI Systems
-</p>
-
-<p align="center">
-I enjoy building intelligent applications with <b>LLMs</b>, <b>RAG</b>, <b>and AI Agents</b></b>.
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/oahednoorforhad/oahednoorforhad/output/terminal.svg" alt="Terminal: Oahed Noor Forhad, AI Engineer and IEEE published researcher. Focus: LLMs, RAG, AI agents and real-time voice agents. Stack: Python, TypeScript, React, Next.js, Vite, Tailwind, TanStack, FastAPI, Celery, Pydantic, SQLAlchemy, Postgres, MySQL, Neon, Redis, RabbitMQ, Supabase, pgvector, Gemini, OpenAI, Cohere, OpenRouter, LangGraph, LangChain, AI SDK, Pinecone, Langfuse, AWS, Azure, Docker, Nginx, Vercel, Sentry. Production checklist: typed async services, migrations, containerised deploys, LLM observability, test layers, queues. Live GitHub analytics." width="100%" /></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/oahednoorforhad">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0a0e14?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzYzNjZGMSIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8+PC9zdmc+"/>
   </a>
   <a href="https://github.com/oahednoorforhad">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717"/>
+    <img src="https://img.shields.io/badge/GitHub-0a0e14?style=for-the-badge&logo=github&logoColor=38bdf8"/>
   </a>
   <a href="mailto:oahednoorforhad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-0a0e14?style=for-the-badge&logo=gmail&logoColor=38bdf8"/>
   </a>
 </p>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,ts,react,nextjs,nodejs,express,flask,mongodb,docker,kubernetes,sentry,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangSmith-121212?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CrewAI-6E56CF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/RAG-0A84FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pydantic-7B3FF2?style=for-the-badge" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oahednoorforhad&theme=github_dark" />
-</p>
-
-
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oahednoorforhad&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-<i>"Building AI that solves real-world problems."</i>

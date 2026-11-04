@@ -1,0 +1,31 @@
+name: profile-terminal
+# Rebuilds out/terminal.svg (terminal card + live GitHub analytics) and force-pushes it to the `output` branch.
+on:
+  schedule: [{ cron: '0 */6 * * *' }]
+  push:
+    branches: [main]
+    paths: ['scripts/**', 'fonts/**', '.github/workflows/profile-terminal.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: python scripts/art.py out
+        env:
+          # PROFILE_TOKEN: classic PAT with `repo` + `read:org` so private and org data is included; falls back to public-only data
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+      - name: Force-push to the output branch
+        run: |
+          cd out
+          git init -b output
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add terminal.svg
+          git commit -m "update profile terminal"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output
